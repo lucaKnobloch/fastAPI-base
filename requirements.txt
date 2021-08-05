@@ -5,7 +5,7 @@ python-levenshtein==0.12.1
 fuzzywuzzy==0.17.0
 tensorflow==1.15.0
 h5py==2.10.0
-keras==2.2.4
+keras==2.6.0rc3
 pytest==6.2.3
 requests==2.25.1
 fastapi==0.63.0
