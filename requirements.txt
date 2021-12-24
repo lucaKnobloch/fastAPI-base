@@ -1,5 +1,5 @@
 numpy==1.18.1
-nltk==3.6
+nltk==3.6.6
 pandas==1.0.3
 python-levenshtein==0.12.1
 fuzzywuzzy==0.17.0
